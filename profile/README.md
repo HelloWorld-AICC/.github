@@ -6,6 +6,9 @@
 
 -->
 # Hello World 
+## 서비스 소개
+![KakaoTalk_20240721_015053302](https://github.com/user-attachments/assets/5aa038d0-3c66-4557-ab09-1de46d74d288)
+
 
 ## ⚙️ 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/fb9b22ba-7dbc-4762-aa8d-0a374f5b7ac2)
